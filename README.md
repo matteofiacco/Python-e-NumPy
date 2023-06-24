@@ -1,5 +1,5 @@
 # Python-e-NumPy
-Il progetto è diviso in tre parti( il fil zip contiene un notebook jupyter con gli step 1 e 3 
+Il progetto è diviso in tre parti( il file zip contiene un notebook jupyter con gli step 1 e 3 
 e un eseguibile dotato di interfaccia a linea di comando relativo allo step 2)
 
 Step1
